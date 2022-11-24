@@ -2,19 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Petit+Formal+Script:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 @import url('https://discord-theme-addons.github.io/modern-channel-indicators/src/support/compiled.css');
-@import url('https://nyri4.github.io/Discolored/main.css');
-/**use the autumn foliole theme by changing the @import url("https://warrayquipsome.github.io/NOVATURIENT/addons.autumn.foliole.css"); to @import url("https://warrayquipsome.github.io/NOVATURIENT/addons.autumn.foliole.css");**/
+/*@import url('https://nyri4.github.io/Discolored/main.css'); **/
 
-/**credit**/
-/**Fancy channel indicators-by LuckFire#4800**/
-/**Settings icon by DevilBro#4401**/
-/**Blurple recolour by DevilBro#4401**/
-/**Horizontal server list by Gibbu#1211**/
-/**Discolored by Nyria#3863**/
-
-
-/**secondary credit**/
-/**credit to Demented_Elmo#1234 for the custom searchbar and chatbox texts code **/
 /*Background Image*/
 	#app-mount [data-user-id="359705579725258754"].userPopout-2j1gM4 {background-image: url(https://images2.alphacoders.com/101/1012090.jpg);}
 /*Popout Fixes*/
