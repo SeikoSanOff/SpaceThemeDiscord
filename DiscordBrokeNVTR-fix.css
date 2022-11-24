@@ -155,7 +155,7 @@ vc ring colour by david
   font-family: 'Discord';
 }
 .wordmark-2u86JB > svg {display:none}
-.wordmark-2u86JB:after {content:'DISCORD + ŋVTR = EPIKK'; text-shadow: 0 0 20px rgb(255, 0, 0); color: rgb(255, 94, 94); font-family: "Discord"}
+.wordmark-2u86JB:after {content:'DISCORD'; text-shadow: 0 0 20px rgb(255, 0, 0); color: rgb(255, 94, 94); font-family: "Discord"}
 .titleBar-1it3bQ {
     padding: 8px!important;
 }
@@ -336,7 +336,7 @@ background-color: #fff !important;
     color: transparent;
 }
 .searchBar-3TnChZ .searchBarComponent-3N7dCG::before {
-    content: "Dont be shy, just search it😀📸";
+    content: "Cherche le 🔍";
     color: hsla(0, 0%, 100%, 0.705);
     margin-left: 10px;
     font-family: "Amatic SC";
@@ -359,7 +359,7 @@ background-color: #fff !important;
 .chat-2ZfjoI > .content-1jQy2l,
 .channel-members,
 .members-3WRCEx,
-.messagesWrapper-3lZDfY,
+.sWrapper-3lZDfY,
 .activityFeed-28jde9,
 .card-3Zmutq,
 .chat-2ZfjoI form,
