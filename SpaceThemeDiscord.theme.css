@@ -1,9 +1,8 @@
 /**
 * @name        SpaceThemeDiscord
 * @author      ∤ SeikoSanOff ∤
-* @description A theme that god chose to let you have, ENJOY!
-* @source      https://github.com/warrayquipsome/NOVATURIENT/blob/main/addons.autumn.foliole.css
-* @version     ersion: AU
+* @source      https://github.com/SeikoSanOff/SpaceThemeDiscord
+* @version     version: AU
 */
 @import url("https://SeikoSanOff.github.io/SpaceThemeDiscord/DiscordBroke-fix.css");
 @import url("https://SeikoSanOff.github.io/SpaceThemeDiscord/HorizontalServer.css");
@@ -23,19 +22,19 @@
 
 /**third credit [css snippets] **/
 /**
-custom badge by Xyhlo
-remove limit css editor by Qb
-do not mirror video preview by David
-avatar only member list by Doggybootsy
-home icon by David
-highlither by Tropical
-smooth discord msg box by Xyhlo
-hover channels animated by Xyhlo
-unread message pill edits by snow
+custom badge
+remove limit css editor
+do not mirror video preview
+avatar only member list
+home icon
+highlither
+smooth discord msg box
+hover channels animated
+unread message pill edits
 **/
 
 
 /*roots*/
-:root { /*for autumn foliole*/
+:root {
  --background-image: url(https://images2.alphacoders.com/101/1012090.jpg);
 }
