@@ -70,32 +70,32 @@ vc ring colour by david
     border-radius: 5px;
     box-shadow: 0 2px 10px rgba(240, 71, 71, 0.22);
     animation: warningflash 1s ease infinite;  
-    border: 3px solid #F04747;
+    border: 3px solid #8247f0;
   }
   .theme-light [aria-controls="appearance-tab"],
   .theme-light .app-2CXKsg .container-YkUktl > .noWrap-hBpHBz > .button-12Fmur:nth-child(3) {
     animation: warningflash 1s ease infinite;
-    border: 2px solid #F04747!important; 
+    border: 2px solid #8247f0!important; 
   } 
 .theme-light #user-settings-cog-Appearance {
   animation: warningflash 1s ease infinite;
-  border: 2px solid #F04747!important; 
+  border: 2px solid #8247f0!important; 
 }
 .theme-light #user-settings-cog-Appearance--dark {
   animation: warningflash 1s ease infinite;
-  border: 2px solid #F04747!important; 
+  border: 2px solid #8247f0!important; 
 }
     .theme-light .children-1xdcWE > .marginTop40-Q4o1tS:nth-child(2) > div > div[tabindex="-1"]:not(:nth-child(3)) {
     animation: warningflash 1s ease infinite;
-    border: 2px solid #F04747;
+    border: 2px solid #8247f0;
   }
 .theme-light #user-settings-cog-Appearance {
   animation: warningflash 1s ease infinite;
-  border: 2px solid #F04747!important; 
+  border: 2px solid #8247f0!important; 
 }
 .theme-light #user-settings-cog-Appearance--dark {
   animation: warningflash 1s ease infinite;
-  border: 2px solid #F04747!important; 
+  border: 2px solid #8247f0!important; 
 }
 /*theme background image*/
 .titleBar-1it3bQ,
@@ -242,7 +242,7 @@ vc ring colour by david
 }
 /*button hover white and red text*/
 .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
-color: rgb(255, 0, 0) !important;
+color: rgb(68, 0, 255) !important;
 background-color: #fff !important;
 }
 .button-Jt-tIg:hover,
@@ -251,7 +251,7 @@ background-color: #fff !important;
  /*home icon*/
 .homeIcon-r0w4ny path {fill: transparent}
 .homeIcon-r0w4ny {
-    background: url('https://imgur.com/WBUbH2t') center/cover no-repeat; /* icon discord gauche de la barre genre le menu**/
+    background: url('https://imgur.com/WBUbH2t.gif') center/cover no-repeat; /* icon discord gauche de la barre genre le menu**/
     min-width: 35px;
     min-height: 35px;
     margin-left: 1px;
@@ -463,7 +463,7 @@ div[class*="noChannel-"],
     background: rgba(0, 0, 0, 0.774)!important;
 }
 .blockquoteDivider-363utW {
-    background: rgba(255, 0, 0, 0.548);
+    background: rgba(89, 0, 255, 0.548);
 }
 .reaction-2A2y9y {
     background-color: rgb(0, 0, 0);
@@ -725,10 +725,10 @@ div[class*="noChannel-"],
     left: -20px!important;
 }
 .winButtonClose-3Q8ZH5 {
-  color: rgb(255, 115, 115);
+  color: rgb(123, 42, 228);
 }
 .winButtonMinMax-3RsPUg {
-  color: rgb(255, 94, 94);
+  color: rgb(123, 42, 228);
 }
 .winButtonMinMax-3RsPUg:hover {
     transform: rotate(45deg)!important;
@@ -1027,25 +1027,25 @@ code.hljs {
         border-color: #fff;
     }
     10% {
-        border-color: #ffd2d2;
+        border-color: #dcc6ff;
     }
     20% {
-        border-color: #ffa1a1;
+        border-color: #c09bfc;
     }
     30% {
-        border-color: #ff8383;
+        border-color: #af80fc;
     }
     40% {
-        border-color: #ff6969;
+        border-color: #a36bfd;
     }
     50% {
-        border-color: #ff8383;
+        border-color: #af80fc;
     }
     60% {
-        border-color: #ffa1a1;
+        border-color: #c09bfc;
     }
     70% {
-        border-color: #ffd2d2;
+        border-color: #dcc6ff;
     }
     80% {
         border-color: #fff;
@@ -1147,7 +1147,7 @@ code.hljs {
     color: #fff;
 }
 .focused-3qFvc8, .statusItem-2hiCNB:hover {
-   background: rgb(255, 86, 86)!important;
+   background: rgb(86, 22, 236)!important;
    border-radius: 5px;
 }
 /*blur menus*/
@@ -1161,7 +1161,7 @@ code.hljs {
   background-color: rgb(113, 52, 255);
 }
 #bd-editor-controls {
-  background-color: rgb(255, 78, 78)!important;
+  background-color: rgb(86, 22, 236)!important;
 }
 .title {
   color: #fff!important;
@@ -1224,7 +1224,7 @@ code.hljs {
   display: none;
 }
 /*attach button play spotify logo colour*/
-.attachButtonPlay-1ATmb5 {color: rgb(255, 166, 0);}
+.attachButtonPlay-1ATmb5 {color: rgb(86, 22, 236);}
 /*user volume bar*/
 :root .slider-1NC-Gf .grabber-2GQyvM {
    display: none;
@@ -1429,7 +1429,7 @@ z-index: 9999;
 }
 .title-2xi6Ka {
   color: rgb(255, 111, 111);
-  text-shadow: 0 0 3px #ff0000, 0 0 5px #453f93;
+  text-shadow: 0 0 3px #6e28f0, 0 0 5px #453f93;
 }
 .title-2xi6Ka::after {
   content: " !";
@@ -1438,7 +1438,7 @@ z-index: 9999;
   content: "! ";
 }
 .colorStandard-21JIj7.size16-rrJ6ag {color: rgb(255, 255, 255);}
-.body-1oUQrZ strong {color:rgb(255, 139, 139) !important;text-shadow: 0 0 3px #ff0000, 0 0 5px #453f93;}
+.body-1oUQrZ strong {color:rgb(197, 149, 252) !important;text-shadow: 0 0 3px #5615ee, 0 0 5px #453f93;}
 .small-23Atuv {
   border-radius: 5px;
 }
@@ -1691,5 +1691,5 @@ div[class*="typeWindows-"]::after {
   display:none!important;
 }
 .theme-dark .searchOption-351dTI .filter-5YbOzJ {
-  color: rgb(255, 86, 86)!important;
+  color: rgb(86, 22, 236)!important;
 }
