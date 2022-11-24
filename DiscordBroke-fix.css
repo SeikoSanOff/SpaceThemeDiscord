@@ -2,8 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Petit+Formal+Script:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 @import url('https://discord-theme-addons.github.io/modern-channel-indicators/src/support/compiled.css');
-@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css');
-@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
 /**use the autumn foliole theme by changing the @import url("https://warrayquipsome.github.io/NOVATURIENT/addons.autumn.foliole.css"); to @import url("https://warrayquipsome.github.io/NOVATURIENT/addons.autumn.foliole.css");**/
 
@@ -125,7 +123,7 @@ vc ring colour by david
   font-family: 'Discord';
 }
 .wordmark-2u86JB > svg {display:none}
-.wordmark-2u86JB:after {content:'DISCORD'; text-shadow: 0 0 20px rgb(86, 22, 236); color: rgb(86, 22, 236); font-family: "Discord"}
+.wordmark-2u86JB:after {content:'DISCORD / Seiko'; text-shadow: 0 0 20px rgb(86, 22, 236); color: rgb(86, 22, 236); font-family: "Discord"}
 .titleBar-1it3bQ {
     padding: 8px!important;
 }
@@ -290,7 +288,7 @@ background-color: #fff !important;
 /*Search Bar Text*/
 .public-DraftEditorPlaceholder-root {visibility: hidden;}
 .public-DraftEditorPlaceholder-root::before {
-  content: "‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏Cherche ici";
+  content: "‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏What's up my guy";
   visibility: visible;}
   /*Textbox Text*/
 .placeholder-1_mJY1 {visibility: hidden;}
@@ -1428,7 +1426,7 @@ z-index: 9999;
   margin-left: 30%;
 }
 .title-2xi6Ka {
-  color: rgb(255, 111, 111);
+  color: rgb(101, 26, 240);
   text-shadow: 0 0 3px #6e28f0, 0 0 5px #453f93;
 }
 .title-2xi6Ka::after {
@@ -1520,20 +1518,20 @@ z-index: 9999;
   background-color: rgba(255, 255, 255, 0.047)!important; 
 }
 .clamped-2ZePhX::-webkit-scrollbar-thumb {
-  background:  linear-gradient(45deg, #ff7e7e, #ff4242)!important; 
+  background:  linear-gradient(45deg, #a57eff, #6542ff)!important; 
   border-radius: 30px; 
 }
 /*vc ring colour*/
 /* Servers */
-.avatarSpeaking-2pCGrZ {box-shadow: inset 0 0 0 2px rgb(255, 89, 89),inset 0 0 0 2px var(--background-secondary)}
+.avatarSpeaking-2pCGrZ {box-shadow: inset 0 0 0 2px rgb(125, 89, 255),inset 0 0 0 2px var(--background-secondary)}
 /* DMs */
-.border-2BJQjd.speaking-3RWJBr {box-shadow: inset 0 0 0 2px rgb(255, 89, 89),inset 0 0 0 2px var(--background-floating)}
+.border-2BJQjd.speaking-3RWJBr {box-shadow: inset 0 0 0 2px rgb(119, 89, 255),inset 0 0 0 2px var(--background-floating)}
 /* Grid call */
-.border-2Vy6FN.speaking-7QZEkv {box-shadow: inset 0 0 0 2px rgb(255, 89, 89), inset 0 0 0 2px #000}
+.border-2Vy6FN.speaking-7QZEkv {box-shadow: inset 0 0 0 2px rgb(119, 89, 255), inset 0 0 0 2px #000}
 /* User menu (bottom left) */
-.avatarSpeaking-33RRJU {box-shadow: inset 0 0 0 2px rgb(255, 89, 89),inset 0 0 0 2px var(--background-secondary)}
+.avatarSpeaking-33RRJU {box-shadow: inset 0 0 0 2px rgb(119, 89, 255),inset 0 0 0 2px var(--background-secondary)}
 /* Voice users */
-.speaking-3K28iH {box-shadow: inset 0 0 0 2px rgb(255, 89, 89),inset 0 0 0 2px var(--background-secondary)}
+.speaking-3K28iH {box-shadow: inset 0 0 0 2px rgb(119, 89, 255),inset 0 0 0 2px var(--background-secondary)}
 
 /*image upload recolour*/
 .upload-3GTSF9 {
