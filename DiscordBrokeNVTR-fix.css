@@ -18,7 +18,7 @@
 /**secondary credit**/
 /**credit to Demented_Elmo#1234 for the custom searchbar and chatbox texts code **/
 /*Background Image*/
-#app-mount [data-user-id="810543628307922955"].userPopout-2j1gM4 {background-image: url(https://wallpaperaccess.com/full/4071914.jpg);}
+#app-mount [data-user-id="810543628307922955"].userPopout-2j1gM4 {background-image: url(https://images2.alphacoders.com/101/1012090.jpg);}
 /*Popout Fixes*/
 #app-mount [data-user-id="810543628307922955"] .bodyInnerWrapper-2bQs1k {background: transparent;}
 
@@ -655,7 +655,7 @@ div[class*="noChannel-"],
 }
 /*message box little upgrades*/
 #app-mount .buttons-uaqb-5 .sprite-2lxwfc {
-    background-image: url(https://emoji.gg/assets/emoji/3351-bread-carved.png);
+    background-image: url(https://cdn3.emoji.gg/emojis/5535-improved-melting-face.png);
     background-position: center !important;
     background-size: contain !important;
 }
@@ -1652,6 +1652,7 @@ div[class*="typeWindows-"]::after, div[class*="typeWindows-"]::before {
   color: rgba(255, 255, 255, 0.5);
   transition: all 0.5s ease-in-out;
 }
+/* texte qui safiche quand tu veux fermer la fenetre
 div[class*="typeWindows-"]::after {
   content: "Novaturient";
   text-shadow: 0 0 20px rgb(255, 0, 0); 
@@ -1669,6 +1670,7 @@ div[class*="typeWindows-"]::before {
   margin-right: 20px;
   transform: translateX(70%) rotateX(45deg);
 }
+**/
 div[class*="typeWindows-"]:hover::after {
   margin-right: 40px;
   transform: none;
