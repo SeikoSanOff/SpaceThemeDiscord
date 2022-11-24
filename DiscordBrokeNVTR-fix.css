@@ -125,7 +125,7 @@ vc ring colour by david
   font-family: 'Discord';
 }
 .wordmark-2u86JB > svg {display:none}
-.wordmark-2u86JB:after {content:'DISCORD'; text-shadow: 0 0 20px rgb(255, 0, 0); color: rgb(255, 94, 94); font-family: "Discord"}
+.wordmark-2u86JB:after {content:'DISCORD'; text-shadow: 0 0 20px rgb(86, 22, 236); color: rgb(86, 22, 236); font-family: "Discord"}
 .titleBar-1it3bQ {
     padding: 8px!important;
 }
@@ -134,11 +134,11 @@ vc ring colour by david
     color: var(--interactive-active) !important;
 }
 .iconVisibility-vptxma.wrapper-NhbLHG.modeSelected-3DmyhH .name-28HaxV.overflow-1wOqNV  {
-  color: rgb(255, 151, 151)!important;
-  text-shadow: 0 0 2px #ff0000, 0 0 5px #453f93;
+  color: rgb(121, 16, 240)!important;
+  text-shadow: 0 0 2px #4c00ff, 0 0 5px #453f93;
 }
 .selected-2TbFuo .icon-2W8DHg {
-    color: rgb(255, 121, 121)!important;
+    color: rgb(121, 16, 240)!important;
 }
 /*blurple recolour root*/
 :root {
@@ -160,13 +160,13 @@ vc ring colour by david
 }
 .closeButton-PCZcma {
   box-shadow: 0 0 10px rgba(255,255,255,1),
-              0 0 20px rgb(255, 169, 130),
-              0 0 30px rgb(255, 138, 138),
-              0 0 0 1px rgb(255, 123, 0),
-              0 0 0 1px rgb(255, 123, 0),
-              0 0 0 1px rgb(255, 123, 0),
-              0 0 0 1px rgb(255, 123, 0),
-              0 0 0 1px rgb(255, 123, 0);
+              0 0 0 1px rgb(233, 207, 255),
+              0 0 0 1px rgb(219, 174, 255),
+              0 0 0 1px rgb(195, 126, 252),
+              0 0 0 1px rgb(179, 87, 255),
+              0 0 0 1px rgb(166, 78, 238),
+              0 0 0 1px rgb(148, 24, 250),
+              0 0 0 1px rgb(140, 0, 255);
 }
 .closeButton-PCZcma {
     border-color: rgb(253, 253, 253)!important;
@@ -986,7 +986,7 @@ div[class*="noChannel-"],
 }
 .botTagRegular-kpctgU:hover {
     transition: .5s;
-    background: rgb(255, 166, 0);
+    background: rgb(98, 0, 255);
     color: #ffffff;
 }
 .botTagRegular-kpctgU {
@@ -1063,7 +1063,7 @@ code.hljs {
 .button-Jt-tIg {border: dashed 1px #fff3;height: 40px;background: rgba(255, 255, 255, 0.123)!important;}
 /*spotify gradient thing*/
 .timeline-UWmgAx:hover .barFill-Dhkah7 {
-    background: linear-gradient(135deg, #ffce61, #fc5050);
+    background: linear-gradient(135deg, #cd61ff, #6a50fc);
 }
 /*no text in share screen and video button*/
 .actionButtons-2vEOUh .contents-3ca1mk {
@@ -1087,10 +1087,10 @@ code.hljs {
 /*reply bar and mark as read button colour*/
 .replyLabel-WWnhHi {padding-left: 10px;}
 .clipContainer-31nYlH {
-    background-color: rgb(255, 167, 52);
+    background-color: rgb(113, 52, 255);
 }
 .replyBar-1oi75v {
-  background-color: rgb(255, 167, 52);
+  background-color: rgb(113, 52, 255);
   height: 30px;
   margin-bottom: 1px!important;
   border-radius: 4px;
@@ -1099,7 +1099,7 @@ code.hljs {
   color: #fff;
 }
 .barButtonMain-2GIx4o, .barButtonAlt-TQoCdZ {
-  background-color: rgb(255, 167, 52);
+  background-color: rgb(113, 52, 255);
   height: 50px;
   bottom: -10px;
 }
@@ -1158,7 +1158,7 @@ code.hljs {
 }
 /*custom css editor colours*/
 .floating-window-titlebar {
-  background-color: rgb(255, 166, 0);
+  background-color: rgb(113, 52, 255);
 }
 #bd-editor-controls {
   background-color: rgb(255, 78, 78)!important;
@@ -1199,11 +1199,11 @@ code.hljs {
 }
 /*new unreads colour*/
 .unreadBar-elBRZx {
-    background-color: rgb(255, 166, 0);
+    background-color: rgb(113, 52, 255);
     opacity: 1;
 }
 .unreadBar-elBRZx:hover {
-    background-color: rgb(255, 166, 0);
+    background-color: rgb(113, 52, 255);
     opacity: .9;
 }
 /*sry bro its all for the home button*/
@@ -1212,11 +1212,11 @@ code.hljs {
 }
 /*audio and ping border radius*/
  .baseShapeRound-3epLEv {
-    background-color: rgb(255, 166, 0)!important;
+    background-color: rgb(113, 52, 255)!important;
     border-radius: 5px;
 }
 .numberBadge-37OJ3S {
-    background-color: rgb(255, 94, 94) !important;
+    background-color: rgb(113, 52, 255) !important;
     border-radius: 5px;
 }
 /* makes the gray thing on the top bar disappear*/
